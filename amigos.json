@@ -1,0 +1,30 @@
+[
+    {
+        "nombre" : "Daniel",
+        "hobby" : "Tenis",
+        "edad" : 21,
+        "telefono" : "3334083728",
+        "direccion" : "Privada Independencia 15"
+    },
+    {
+        "nombre" : "David",
+        "hobby" : "Basquetbol",
+        "edad" : 20,
+        "telefono" : "3335157890",
+        "direccion" : "Paseo San Luis 2785"
+    },
+    {
+        "nombre" : "Francisco",
+        "hobby" : "Clash Royale",
+        "edad" : 22,
+        "telefono" : "8888883409",
+        "direccion" : "Rancho de Tepic 32"
+    },
+    {
+        "nombre" : "Alan",
+        "hobby" : "League of Legends",
+        "edad" : 23,
+        "telefono" : "5566703904",
+        "direccion" : "Tepic El Rancho 2365"
+    }
+]
